@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/LifeInTheUk/static/css/main.38be36b0.css",
-    "main.js": "/LifeInTheUk/static/js/main.e8d6a1ac.js",
+    "main.js": "/LifeInTheUk/static/js/main.07e63b0a.js",
     "static/js/377.d120538b.chunk.js": "/LifeInTheUk/static/js/377.d120538b.chunk.js",
     "service-worker.js": "/LifeInTheUk/service-worker.js",
     "index.html": "/LifeInTheUk/index.html",
     "main.38be36b0.css.map": "/LifeInTheUk/static/css/main.38be36b0.css.map",
-    "main.e8d6a1ac.js.map": "/LifeInTheUk/static/js/main.e8d6a1ac.js.map",
+    "main.07e63b0a.js.map": "/LifeInTheUk/static/js/main.07e63b0a.js.map",
     "377.d120538b.chunk.js.map": "/LifeInTheUk/static/js/377.d120538b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38be36b0.css",
-    "static/js/main.e8d6a1ac.js"
+    "static/js/main.07e63b0a.js"
   ]
 }
